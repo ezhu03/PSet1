@@ -1,0 +1,6 @@
+[submodule "Archive_P1"]
+	path = Archive_P1
+	url = https://github.com/ezhu03/Archive_P1.git
+[submodule "Problem_3"]
+	path = Problem_3
+	url = https://github.com/ezhu03/Problem_3.git
